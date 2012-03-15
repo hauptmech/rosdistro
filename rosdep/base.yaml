@@ -43,6 +43,7 @@ automake:
   rhel: automake
   ubuntu: automake
 bazaar:
+  arch: bzr
   debian: bzr
   fedora: bazaar
   freebsd: bazaar
@@ -623,9 +624,11 @@ xulrunner-dev:
   ubuntu: libv8-dev
   fedora: libv8-devel
 yaml:
+  arch: libyaml
   fedora: libyaml-devel
   ubuntu: libyaml-dev
 yaml-cpp:
+  arch: yaml-cpp
   debian:
     source: {md5sum: f7fb81fd4a2fbd5022daa7686e816359, uri: 'https://kforge.ros.org/rosrelease/viewvc/sourcedeps/yaml-cpp/yaml-cpp-0.2.5.rdmanifest'}
   ubuntu:
