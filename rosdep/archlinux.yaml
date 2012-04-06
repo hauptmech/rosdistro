@@ -1,0 +1,7 @@
+opencv2:
+  arch: opencv
+swig-wx:
+  arch: swig
+pcl:
+  arch: pcl
+
