@@ -3,5 +3,5 @@ opencv2:
 swig-wx:
   arch: swig
 pcl:
-  arch: pcl
+  arch: pcl-ros
 
